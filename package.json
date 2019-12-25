@@ -1,0 +1,15 @@
+{
+  "name": "NightWatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^1.3.2"
+  }
+}
